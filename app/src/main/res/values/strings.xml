@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">What\'s App</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">egPySxkAepdSf5jzqARFuoB4hopjzdItpUHiDbFu</string>
+    <string name="back4app_client_key">HPS5i2HHKoglqu9dnKxYQTD3jMMoSFfjzBShn3nA</string>
+</resources>
